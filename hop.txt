@@ -5,4 +5,4 @@ abc
 
 A wiki (Listeni/?w?ki/ wik-ee) is a web application which allows people to add, modify, or delete content in collaboration with others. 
 
-In a typical wiki, text is written using a simplified markup language or a rich-text editor.[1][2] While a wiki is a type of content management system, it differs from a blog or most other such systems in that the content is created without any defined owner or leader, and wikis have little implicit structure, allowing structure to emerge according to the needs of the users.[2]
+In a typical  wiki, text is written using a simplified markup language or a rich-text editor.[1][2] While a wiki is a type of content management system, it differs from a blog or most other such systems in that the content is created without any defined owner or leader, and wikis have little implicit structure, allowing structure to emerge according to the needs of the users.[2]
